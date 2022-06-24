@@ -1,0 +1,8 @@
+{
+  "installDependencies": true,
+  "startCommand": "npm install && npm run dev",
+  "env": {
+    "SQLITE_FILENAME": "needful_things.db",
+    "DATABASE": "sqlite"
+  }
+}
